@@ -1,0 +1,23 @@
+services:
+  minecraft:
+    image: minecraft-custom:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    restart: unless-stopped
+    container_name: minecraft
+    ports:
+      - "25565:25565"
+      - "25575:25575"
+    env_file:
+      - .env
+    environment:
+      EULA: "TRUE"
+      TYPE: "VANILLA"
+      VERSION: "LATEST"
+      LEVEL: "${REPO_NAME}"
+      MEMORY: "4G"
+      ENABLE_RCON: "true"
+    volumes:
+      - ./data:/data
+      - ./logs:/var/log/mc-scripts
